@@ -1,0 +1,7 @@
+target/MavenDemo/WEB-INF/lib/mybatis-spring-1.2.2.jar
+target/MavenDemo/WEB-INF/lib/mybatis-3.2.8.jar
+src/main/resources/jdbc.properties
+.idea/vcs.xml
+MavenDemo.iml
+.idea/
+target/
